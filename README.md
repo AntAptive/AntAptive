@@ -1,5 +1,13 @@
-## Hi there 👋
-
+![AntAptive](https://github.com/AntAptive/AntAptive/blob/main/GitHub%20Banner.png?raw=true)
+### Hi, I'm Michael! I'm a self-taught Graphic/Motion Graphic Designer, Game/Software Developer, EDM Artist & Content Creator.
+[Click here](https://antaptive.com/) to go to my site for more info about me!
+## I know...
+* C#
+* HTML/CSS
+* JavaScript
+* LUA
+## I'm learning...
+* C++
 <!--
 **AntAptive/AntAptive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
