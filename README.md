@@ -1,25 +1,12 @@
-![AntAptive](https://github.com/AntAptive/AntAptive/blob/main/GitHub%20Banner.png?raw=true)
-### Hi, I'm Michael! I'm a self-taught Graphic/Motion Graphic Designer, Game/Software Developer, EDM Artist & Content Creator.
-[Click here](https://antaptive.com/) to go to my site for more info about me!
-## I know...
-* C#
-* HTML/CSS
-* JavaScript
-* LUA
-## I'm learning...
-* C++
-* React
-<!--
-**AntAptive/AntAptive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![AntAptive](/GitHub%20Banner.jpg)
 
-Here are some ideas to get you started:
+## My Stuff
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logoColor=ffffff&color=%23ff3838)](https://antaptive.com)
+[![Website](https://img.shields.io/badge/Merch-000000?style=for-the-badge&logoColor=ffffff&color=%23a20000)](https://shop.antaptive.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Socials
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCjCVU3pYrpvjXquuN3Y7VWQ?style=for-the-badge&logo=youtube&label=YouTube&labelColor=%23ff1f1f&color=505050)](https://youtube.com/antaptive)
+[![Twitch](https://img.shields.io/twitch/status/antaptive?style=for-the-badge&logo=twitch&logoColor=ffffff&labelColor=8A2BE2&color=000000)](https://twitch.tv/antaptive)
+[![Twitter](https://img.shields.io/badge/Twitter%20(NEVER%20X)-1DA1F2?style=for-the-badge&logo=X&logoColor=ffffff
+)](https://twitter.com/antaptive)
+![AntAptive on Discord](https://img.shields.io/badge/%40AntAptive-7289da?style=for-the-badge&logo=discord&logoColor=ffffff)
