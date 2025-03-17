@@ -1,4 +1,4 @@
-![AntAptive](/GitHub%20Banner.jpg)
+![AntAptive](/GitHub%20Banner.jpg?)
 
 ## My Stuff
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logoColor=ffffff&color=%23ff3838)](https://antaptive.com)
